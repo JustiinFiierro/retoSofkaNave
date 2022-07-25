@@ -1,4 +1,4 @@
-//MODELO::::::::::::::::::::::::::::::::::::::::::
+//MODELO
 class Vehiculos{ 
     #gravedad = 10
     constructor(nombre, empuje, destino, combustible, pais){
@@ -15,8 +15,6 @@ class Vehiculos{
         return `Actualmente esta viajando la nave ${this.nombre}`
     }
 }
-
-
 
 class Nave1 extends Vehiculos{
     constructor(nombre,Tempuje, destino, combustible,  pais, valocidad){
@@ -201,8 +199,6 @@ class Nave4 extends Vehiculos{
     }
 }
 
-
-
 const fetchData =  async ()=>{
     try{
         const respuesta = await fetch('modelo/inventarioNaves.json')
@@ -213,8 +209,6 @@ const fetchData =  async ()=>{
     }
       
 }
-
-
 
 class buscador{
     constructor(nombre, destino, pais, accion){
@@ -252,12 +246,7 @@ class buscador{
     }
 }
 
-
-
-
-
-
-//CONTROLADOR::::::::::::::::::::::::::::::::::::::
+//CONTROLADOR
 const bt1 = document.getElementById('formulario1')
 const bt2 = document.getElementById('formulario2')
 const bt3 = document.getElementById('formulario3')
@@ -418,14 +407,7 @@ btBuscar.addEventListener('submit', (e)=>{
 })
 
 
-
-
-
-
-
-
-
-//VISTA::::::::::::::::::::::::::::::::::::::::::::::::::::::
+//VISTA
 
 const inv1 = document.getElementById('inv1')  //donde pintaremos 
 const inv2 = document.getElementById('inv2')  //donde pintaremos 
@@ -511,7 +493,6 @@ const pintarBuscador = dato => {
 
 
 }
-
 
 const btnIniciar = document.querySelector('.iniciar')
 const btnSalir = document.querySelector('.salir')
