@@ -1,0 +1,115 @@
+{
+   
+    "lanzadera" :[
+            
+            {
+                "nombre"      : "Saturno V",
+                "empuje"      : "3500 Toneladas",
+                "destino"     : "Luna",
+                "combustible" : "petróleo refinado y oxígeno líquido",
+                "pais"        : "EE.UU",
+                "tipo"        : "Vehículos lanzadera",
+                "img"         : "https://c8.alamy.com/compes/2htgx9g/ilustracion-coloreada-de-rocket-cartoon-clipart-2htgx9g.jpg",
+                "id"          : 1
+                
+            },
+            {
+                "nombre"      : "Energía",
+                "empuje"      : "2400 Toneladas",
+                "destino"     : "Luna",
+                "combustible" : "petróleo refinado y oxígeno líquido",
+                "pais"        : "Unión Soviética ",
+                "tipo"        : "Vehículos lanzadera",
+                "img"         : "https://c8.alamy.com/compes/2htgx9g/ilustracion-coloreada-de-rocket-cartoon-clipart-2htgx9g.jpg",
+                "id"          : 2
+                
+            },
+            {
+                "nombre"      : "Falcon IX",
+                "empuje"      : "3807 Toneladas",
+                "destino"     : "Orbita",
+                "combustible" : "propulsión electromagnética ",
+                "pais"        : "EE.UU",
+                "tipo"        : "Vehículos lanzadera",
+                "img"         : "https://c8.alamy.com/compes/2htgx9g/ilustracion-coloreada-de-rocket-cartoon-clipart-2htgx9g.jpg",
+                "id"          : 3
+
+            }
+            
+        ],
+        "notripuladas" :[
+            
+            {
+                "nombre"      : "sonda Cassini-Huygens",
+                "empuje"      : "45,39 kg",
+                "destino"     : "Saturno y sus lunas",
+                "combustible" : "MMH y tetróxido de nitrógeno ",
+                "pais"        : "NASA (EE.UU.), la ESA (Europa) y la ASI (Italia)",
+                "tipo"        : "Naves especiales no tripuladas",
+                "img"         : "https://previews.123rf.com/images/juliarstudio/juliarstudio1601/juliarstudio160101855/51175721-las-comunicaciones-por-sat%C3%A9lite-icono-de-dibujos-animados-sobre-un-fondo-blanco.jpg",
+                "id"          : 4
+                
+            },
+            {
+                "nombre"      : "Mariner IV",
+                "empuje"      : "22,44 kg",
+                "destino"     : "Marte",
+                "combustible" : "hidrazina",
+                "pais"        : "NASA (EE.UU.), la ESA (Europa) y la ASI (Italia)",
+                "tipo"        : "Naves especiales no tripuladas",
+                "img"         : "https://previews.123rf.com/images/juliarstudio/juliarstudio1601/juliarstudio160101855/51175721-las-comunicaciones-por-sat%C3%A9lite-icono-de-dibujos-animados-sobre-un-fondo-blanco.jpg",
+                "id"          : 5
+                
+            },
+            {
+                "nombre"      : "Pionero XI",
+                "empuje"      : "26 kg",
+                "destino"     : "Júpite",
+                "combustible" : "hidrazina",
+                "pais"        : "NASA (EE.UU.)",
+                "tipo"        : "Naves especiales no tripuladas",
+                "img"         : "https://previews.123rf.com/images/juliarstudio/juliarstudio1601/juliarstudio160101855/51175721-las-comunicaciones-por-sat%C3%A9lite-icono-de-dibujos-animados-sobre-un-fondo-blanco.jpg",
+                "id"          : 6
+                
+            }
+            
+        ],
+        "tripuladas" :[
+            
+            {
+                "nombre"      : "Skylab",
+                "empuje"      : "desconocido",
+                "destino"     : "orbita",
+                "combustible" : "desconocido",
+                "pais"        : "NASA (EE.UU.), (Rusia), (Japón), la CSA (Canadá) y la ESA (Europa).",
+                "tipo"        : "Naves especiales tripuladas",
+                "img"         : "https://previews.123rf.com/images/vectorshowstudio/vectorshowstudio1607/vectorshowstudio160700530/60415488-rocket-conjunto-de-vectores-y-la-tecnolog%C3%ADa-veh%C3%ADculo-espacial-iconos-de-dibujos-animados-de-cohetes-.jpg",
+                "id"          : 7
+                
+            },
+            {
+                "nombre"      : "Salyut soviético",
+                "empuje"      : "desconocido",
+                "destino"     : "orbita",
+                "combustible" : "desconocido",
+                "pais"        : "NASA (EE.UU.), (Rusia), (Japón), la CSA (Canadá) y la ESA (Europa).",
+                "tipo"        : "Naves especiales tripuladas",
+                "img"         : "https://previews.123rf.com/images/vectorshowstudio/vectorshowstudio1607/vectorshowstudio160700530/60415488-rocket-conjunto-de-vectores-y-la-tecnolog%C3%ADa-veh%C3%ADculo-espacial-iconos-de-dibujos-animados-de-cohetes-.jpg",
+                "id"          : 8
+                
+            },
+            {
+                "nombre"      : "Apolo",
+                "empuje"      : "desconocido",
+                "destino"     : "orbita",
+                "combustible" : "desconocido",
+                "pais"        : "NASA (EE.UU.), (Rusia), (Japón), la CSA (Canadá) y la ESA (Europa).",
+                "tipo"        : "Naves especiales tripuladas",
+                "img"         : "https://previews.123rf.com/images/vectorshowstudio/vectorshowstudio1607/vectorshowstudio160700530/60415488-rocket-conjunto-de-vectores-y-la-tecnolog%C3%ADa-veh%C3%ADculo-espacial-iconos-de-dibujos-animados-de-cohetes-.jpg",
+                "id"          : 9
+                
+            }
+            
+        ]
+    
+}
